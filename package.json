@@ -1,8 +1,8 @@
 {
   "name": "send-to-slack",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Simple way to send messages to slack. Works on both the client and server.",
-  "keywords": [],
+  "keywords": ["slack", "send", "simple"],
   "author": "Matthew Mueller <matt@lapwinglabs.com>",
   "repository": {
     "type": "git",
