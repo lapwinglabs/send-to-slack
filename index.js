@@ -59,7 +59,6 @@ function Slack (url) {
       }
 
       debug('sending to slack: %j', data)
-      console.log(url);
       superagent.post(url)
         .type('form')
         .send({ payload: JSON.stringify(data) })
